@@ -10,10 +10,9 @@
 - ⚡ Fun fact: ...
 
 ## Profile
----
 
 ## Project 
----
+
 - 🤔 目录下有report， 有的上传了演示视频 🤔
 
 - [TripAdvisor自然语言分析平台](https://github.com/toweliewang/PLP-2020-03-31-GRP7-Restaurant-Analysis-Platform) <br/>情感分析挖掘算法（LDA，GloVe+BiLSTM）、虚假评论识别算法、聊天机器人（DialogFlow）、知识图谱（Neo4j）等技术为个人用户提供智能问答和推荐服务，为餐厅用户提供智能商业分析报告
