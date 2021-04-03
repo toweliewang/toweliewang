@@ -1,6 +1,6 @@
 ### Hi there 欢迎来到我的Github主页👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently 一只数据科学小菜狗
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -9,11 +9,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Profile
+
+## Blog
+
+- 
 
 ## Project 
 
-- 🤔 目录下有report， 有的上传了演示视频 🤔
+🤔 目录下有report， 有的上传了演示视频 🤔
 
 - [TripAdvisor自然语言分析平台](https://github.com/toweliewang/PLP-2020-03-31-GRP7-Restaurant-Analysis-Platform) <br/>情感分析挖掘算法（LDA，GloVe+BiLSTM）、虚假评论识别算法、聊天机器人（DialogFlow）、知识图谱（Neo4j）等技术为个人用户提供智能问答和推荐服务，为餐厅用户提供智能商业分析报告
 
@@ -29,4 +32,5 @@
 
 - [智能职业规划平台](https://github.com/toweliewang/IRS-CS-2019-07-29-IS1FT-GRP-Team10-Personal-Career-Manager-Software-Agent)<br/>分析领英和招聘网站数据；部署机器人客服推荐职位、课程和职业规划路径 Apriori / N-gram / TF-IDF / K-means / fuzzy logic / rule base / GA / Astar
 
-## Blog
+
+
